@@ -48,5 +48,5 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 ### My EB Url
-EB: 
+EB: http://thienhq3-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://recmiennam.com/wp-content/uploads/2018/01/phong-canh-thien-nhien-dep-1.jpg
 Test image url: https://recmiennam.com/wp-content/uploads/2018/01/phong-canh-thien-nhien-dep-1.jpg
